@@ -1,0 +1,8 @@
+1. Package - folder w którym są node'y. Skrót "pkg" => $ros2 pkg ...
+2. Node - obiekt wykonujący czynności. Skrót "node" => &ros2 node ... LUB &ros2 run <package> <node name>
+3. Topic - pozwala na komunikację między node'ami. Skrót "topic" => ros2 topic ...
+4. Publisher - tworzy i aktualizuje topic
+5. Subscriber - czyta z topic
+
+Teleop - branie z klawiatury
+Twist - współrzędne 3d: x,y,z i rotacje x,y,z
